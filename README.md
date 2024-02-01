@@ -47,7 +47,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/JMujuru/Interactive-rating-componet.github.io)
-- Live Site URL:(https://your-live-site-url.com](https://jmujuru.github.io/Interactive-rating-componet.github.io/)
+- Live Site URL:(https://jmujuru.github.io/Interactive-rating-componet.github.io/)
 
 ## My process
 Using the nested layout techniques I made the HTML and CSS once this was done I set the thank-you page to hidden so it wouldn't show initially to the user. 
